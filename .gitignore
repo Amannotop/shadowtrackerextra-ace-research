@@ -1,0 +1,8 @@
+*.dylib
+*.o
+SentinelForge/sentinelforge
+SentinelForge/src/*.o
+captures/
+.DS_Store
+*.log
+__pycache__/

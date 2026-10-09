@@ -1,0 +1,9 @@
+Package: com.operator.shadowbypass
+Name: ShadowBypass
+Version: 4.6.0-1
+Architecture: iphoneos-arm64
+Description: Operator-lab ACE research implant for ShadowTrackerExtra 4.6.0 (lab devices only)
+Maintainer: operator-lab
+Author: operator-lab
+Section: Research
+Depiction: file:///opt/showcase
